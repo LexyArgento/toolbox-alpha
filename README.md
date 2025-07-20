@@ -1,4 +1,7 @@
 # toolbox-alpha
+**Versión 1.0.2**
+- correccion de errores
+- remplazo de Metasploit por Exploit-DB
 **Versión 1.0.1**
 - correccion de errores
 - protocolo Anti-DoS
