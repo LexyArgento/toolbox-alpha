@@ -1,1 +1,0 @@
-mv interactive.sh /opt/
